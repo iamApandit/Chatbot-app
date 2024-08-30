@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Savaal Karo</string>
+    <string name="login">login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="todo">TODO</string>
+    <string name="new_user_register_here"><b><u>New user? Register here</u></b></string>
+    <string name="LOGIN">Login</string>
+    <string name="Todo">TODO</string>
+    <string name="already_a_user_login_here"><u><b>Already a user? Login here</b></u></string>
+    <string name="Enter_email_address">Enter Email Address</string>
+    <string name="Enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="TODO">TODO</string>
+    <string name="bot_message">Bot message</string>
+    <string name="TOdo">TODO</string>
+    <string name="user_message">User message</string>
+    <string name="TODo">TODO</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="tOdo">TODO</string>
+    <string name="default_web_client_id">506305562758-ia6ilupmfve7nfal3tqnf5km0m02db5n.apps.googleusercontent.com</string>
+</resources>

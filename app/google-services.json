@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506305562758",
+    "firebase_url": "https://savaal-karo-default-rtdb.firebaseio.com",
+    "project_id": "savaal-karo",
+    "storage_bucket": "savaal-karo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506305562758:android:2b4af8bf4063b7ba02e907",
+        "android_client_info": {
+          "package_name": "com.example.savaalkaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506305562758-a2meqfmsfrbsuh6kodce8v0ua8fuqvvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.savaalkaro",
+            "certificate_hash": "9c7d285b9d68352a981b010a7aa965ad04cec90b"
+          }
+        },
+        {
+          "client_id": "506305562758-l72r6f84mrtfcamqvmu2frmecjg14u1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQp1CF2CcA8zQihORme_GVJOk3oyoSsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506305562758-l72r6f84mrtfcamqvmu2frmecjg14u1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
